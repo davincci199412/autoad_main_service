@@ -53,7 +53,7 @@ const UserSchema = new Schema(
       default: [
         'I am interesting in your posts. Thanks',
         'I like reading your posts. Thanks',
-        'I have just read your post. Awesome!!!.'
+        'Awesome!!! I loave your posts.'
       ]
     },
     add_users: [
